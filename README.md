@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @durga03051987
-- 👀 I’m interested in ...Data Analysis,taScience
+- 👀 I’m interested in ...Data Analysis, DataScience
 - 🌱 I’m currently learning ...AI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
